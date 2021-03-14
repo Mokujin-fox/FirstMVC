@@ -33,4 +33,3 @@ C:\Users\Marcio-Work\Desktop\PROGRAMACAO\APLICATIVO-ASPNET-CSHARPE\SalesWebMvc\S
 C:\Users\Marcio-Work\Desktop\PROGRAMACAO\APLICATIVO-ASPNET-CSHARPE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.genruntimeconfig.cache
 C:\Users\Marcio-Work\Desktop\PROGRAMACAO\APLICATIVO-ASPNET-CSHARPE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CopyComplete
 C:\Users\Marcio-Work\Desktop\PROGRAMACAO\APLICATIVO-ASPNET-CSHARPE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\SalesWebMvc.csprojAssemblyReference.cache
-C:\Users\Marcio-Work\Desktop\PROGRAMACAO\APLICATIVO-ASPNET-CSHARPE\SalesWebMvc\SalesWebMvc\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
